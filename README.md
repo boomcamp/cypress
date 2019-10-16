@@ -167,4 +167,9 @@ Demonstration :
 ![Click boomspecs](screenshot-demo/boomsourcing.gif)
 
 
+### API reference 
+
+https://docs.cypress.io/api/api/table-of-contents.html
+
+
 
