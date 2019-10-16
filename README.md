@@ -45,7 +45,7 @@ Wrote to /home/dev-mentor/Pictures/cypress-demo/package.json:
 2. Install `cypress`
 
 ```
-dev-mentor@devmentor-PC-MK34LEZCBEAD:~/Pictures/cypress-demo$ npm install cypress
+dev-mentor@devmentor-PC-MK34LEZCBEAD:~/Pictures/cypress-demo$ npm install cypress --save-dev
 
 > cypress@3.4.1 postinstall /home/dev-mentor/Pictures/cypress-demo/node_modules/cypress
 > node index.js --exec install
