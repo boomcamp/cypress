@@ -100,8 +100,8 @@ We keep our test data in a `.json` format inside `fixtures` folder and write tes
 
 Summary :
 
-1. project/cypress/Fixtures = Represents the static test data that can store in `.json` format.
-2. project/cypress/Integration = The actual test suites contains `spec.js` files.
+1. **cypress-demo/cypress/Fixtures** = Represents the static test data and store as `.json` format.
+2. **cypress-demo/cypress/Integration** = The actual test suites contains `spec.js` files.
 
 
 ### Running our first test suite
