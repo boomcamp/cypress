@@ -1,6 +1,6 @@
 ## Cypress 
 
-### What is an automation testing
+### What is an test automation
 
 TODO: Description 
 
@@ -8,7 +8,7 @@ TODO: Description
 
 1. What is Cypress = TODO 
 
-2. Why automation testing is important is software development = TODO
+2. Why is test automation important in software development = TODO
 
 3. Cypress vs Selenium = TODO
 
