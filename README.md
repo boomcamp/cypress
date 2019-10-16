@@ -106,6 +106,12 @@ Summary :
 
 ### Running our first test suite
 
+The test case 
+1. Open web browser and access https://google.com     = Pass or Failed
+2. At search bar type `boomsourcing`                  = Pass or Failed
+3. At footer click `About Us`                         = Pass or Failed
+4. Should redirect to `About Us` page                 = Pass orFailed
+
 1. We need to disable the CORS issue by setting `chromeWebSecurity` into `false` under `cypress-demo/cypress/cypress.json`.
 
 ```
