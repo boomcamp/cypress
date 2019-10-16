@@ -1,16 +1,22 @@
 ## Cypress 
 
-### What is an test automation
 
-TODO: Description 
+### Quality Assurance
+What is Quality Assurance(QA) = Quality assurance is a way of preventing mistakes and defects in manufactured products and avoiding problems when delivering products or services to customers
+
+### Types of Quality Assurance
+1. **Manual Testing** = is performed by a human sitting in front of a computer carefully executing the test steps.
+
+2. **Automation Testing** = means using an `automation tool` to execute your test case suite example of this is using `automation softwares`.
 
 ### Automation testing with cypress 
+1. Why is test automation important in software development = TODO
 
-1. What is Cypress = TODO 
+2. What is selenium = 
 
-2. Why is test automation important in software development = TODO
+3. What is Cypress = is a JavaScript-based end-to-end testing framework that doesn't use selenium at all. 
 
-3. Cypress vs Selenium = TODO
+4. Cypress vs Selenium = TODO
 
 
 ### Cypress Installation 
