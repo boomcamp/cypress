@@ -107,6 +107,7 @@ Summary :
 ### Running our first test suite
 
 **The test case**
+
 Test case name: My first test suite.
 - Open web browser and access https://google.com     = Pass or Failed
 - At search bar type `boomsourcing`                  = Pass or Failed
