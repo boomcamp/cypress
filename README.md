@@ -1,6 +1,5 @@
 ## Cypress 
 
-
 ### Quality Assurance
 What is Quality Assurance(QA) = Quality assurance is a way of preventing mistakes and defects in manufactured products and avoiding problems when delivering products or services to customers
 
@@ -10,13 +9,15 @@ What is Quality Assurance(QA) = Quality assurance is a way of preventing mistake
 2. **Automation Testing** = means using an `automation tool` to execute your test case suite example of this is using `automation softwares`.
 
 ### Automation testing with cypress 
-1. Why is test automation important in software development = TODO
+1. Why is test automation important in software development = can increase the depth and scope of tests to help improve software quality, test automation `can easily execute thousands of different complex test cases` during every test run providing coverage that is impossible with manual tests
 
-2. What is selenium = 
+2. What is selenium = Selenium is a library but requires a `unit testing framework` or a runner plus an assertions library to build out its capabilities.
 
-3. What is Cypress = is a JavaScript-based end-to-end testing framework that doesn't use selenium at all. 
+e.g : WebDriver.io,Istanbul,Karma ,Robot Framework ,Nightwatch.JS ,Jest ,Jasmine ,Cucumber ,Lettuce ,Protractor ,Mocha ,Tape 
 
-4. Cypress vs Selenium = TODO
+3. What is Cypress = is a JavaScript-based end-to-end testing framework that `doesn't use selenium` at all. 
+
+4. Cypress vs Selenium = Selenium requires testing framework while Cypress can run without a testing framework.
 
 
 ### Cypress Installation 
