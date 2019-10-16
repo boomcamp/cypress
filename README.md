@@ -157,7 +157,7 @@ dev-mentor@devmentor-PC-MK34LEZCBEAD:~/Pictures/cypress-demo$ ./node_modules/.bi
 
 Demonstration :
 
-![Click boomspecs](screenshot-demo/boomsourcing.png)
+![Click boomspecs](screenshot-demo/boomsourcing.gif)
 
 
 
