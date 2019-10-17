@@ -100,8 +100,44 @@ We keep our test data in a `.json` format inside `fixtures` folder and write tes
 
 Summary :
 
-1. **cypress-demo/cypress/Fixtures** = Represents the static test data and store as `.json` format.
-2. **cypress-demo/cypress/Integration** = The actual test suites contains `spec.js` files.
+1. **cypress-demo/cypress/Fixtures** = Represents the static test data and store as `.json` format. by default cypress generates default fixture which is the `example.json`.
+
+example.json
+
+```
+{
+  "name": "Using fixtures to represent data",
+  "email": "hello@cypress.io",
+  "body": "Fixtures are a great way to mock data for responses to routes"
+}
+```
+
+2. **cypress-demo/cypress/Integration** = The actual test suites contains `spec.js` files. by default cypress generates `examples` default folder.
+
+examples/
+
+```
+└── examples
+    ├── actions.spec.js
+    ├── aliasing.spec.js
+    ├── assertions.spec.js
+    ├── connectors.spec.js
+    ├── cookies.spec.js
+    ├── cypress_api.spec.js
+    ├── files.spec.js
+    ├── local_storage.spec.js
+    ├── location.spec.js
+    ├── misc.spec.js
+    ├── navigation.spec.js
+    ├── network_requests.spec.js
+    ├── querying.spec.js
+    ├── spies_stubs_clocks.spec.js
+    ├── traversal.spec.js
+    ├── utilities.spec.js
+    ├── viewport.spec.js
+    ├── waiting.spec.js
+    └── window.spec.js
+```
 
 
 ### Running our first test suite
