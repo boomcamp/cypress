@@ -17,7 +17,7 @@
 **End to End testing** = a technique used to test whether the flow of an application right `from start to finish is behaving as expected`, Tests are done in a `simulated browser`.
 
 
-### Automation testing with cypress 
+# End to End testing with Cypress 
 1. Why is test automation important in software development = can increase the depth and scope of tests to help improve software quality, test automation `can easily execute thousands of different complex test cases` during every test run providing coverage that is impossible with manual tests
 
 2. What is selenium = Selenium is a library but requires a `unit testing framework` or a runner plus an assertions library to build out its capabilities.
