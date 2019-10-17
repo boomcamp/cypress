@@ -1,12 +1,21 @@
 ## Cypress 
 
 ### Quality Assurance
-What is Quality Assurance(QA) = Quality assurance is a way of preventing mistakes and defects in manufactured products and avoiding problems when delivering products or services to customers
+**What is Quality Assurance(QA)** = Quality assurance is a way of preventing mistakes and defects in manufactured products and avoiding problems when delivering products or services to customers
 
-### Types of Quality Assurance
+### Types of Quality Testing
 1. **Manual Testing** = is performed by a human sitting in front of a computer carefully executing the test steps.
 
 2. **Automation Testing** = means using an `automation tool` to execute your test case suite example of this is using `automation softwares`.
+
+### Unit vs Integration vs End to End
+
+**Unit testing** = testing an isolated part of your app, usually done in combination with shallow rendering. example: a component renders with the default props.
+
+**Integration testing** testing if different parts work or integrate with each other. Usually done with mounting or rendering a component. example: test if a child component can update context state in a parent.
+
+**End to End testing** = a technique used to test whether the flow of an application right `from start to finish is behaving as expected`, Tests are done in a `simulated browser`.
+
 
 ### Automation testing with cypress 
 1. Why is test automation important in software development = can increase the depth and scope of tests to help improve software quality, test automation `can easily execute thousands of different complex test cases` during every test run providing coverage that is impossible with manual tests
