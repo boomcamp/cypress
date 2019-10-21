@@ -79,19 +79,19 @@ found 0 vulnerabilities
 
 ```
 
-You should now have the following:
-
-```
-dev-mentor@devmentor-PC-MK34LEZCBEAD:~/Pictures/cypress-demo$ ls
-cypress  cypress.json  node_modules  package.json  package-lock.json
-```
-
 Installing Cypress will take around 2 to 3 minutes, based on your network speed.
 
 3.  Once you have done with the installation part, you will open Cypress for the first time by executing this command at the location where you have your `package.json`
 
 ```
 dev-mentor@devmentor-PC-MK34LEZCBEAD:~/Pictures/cypress-demo$ ./node_modules/.bin/cypress open
+```
+
+It will create `cypress` folder and `cypress.json`, so you should now have the following:
+
+```
+dev-mentor@devmentor-PC-MK34LEZCBEAD:~/Pictures/cypress-demo$ ls
+cypress  cypress.json  node_modules  package.json  package-lock.json
 ```
 
 ![Cypress First run](screenshot-demo/first-running-cypress.gif)
